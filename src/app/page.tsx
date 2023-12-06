@@ -6,7 +6,8 @@ import { PaymentsMethods } from "@/components/PaymentsMethods";
 export default function Home() {
   return (
     <>
-      <p>From Home</p>
+    <Header></Header>
+      <p>From Home Components</p>
     </>
   )
 }
