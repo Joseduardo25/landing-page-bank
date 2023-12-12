@@ -7,5 +7,3 @@ export const BackgroundRadialRight = () => {
     </div>
   )
 }
-
-// export default BackgroundRadialRight
